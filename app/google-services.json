@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061377828671",
+    "firebase_url": "https://fcmpushnotification-3101b.firebaseio.com",
+    "project_id": "fcmpushnotification-3101b",
+    "storage_bucket": "fcmpushnotification-3101b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061377828671:android:c7f3ab8e7107c8bcf0558a",
+        "android_client_info": {
+          "package_name": "com.manish.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061377828671-4v3tu3v7fu3fj8u0o7j0nvt607ft60k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manish.fcm",
+            "certificate_hash": "c222abae217e288e85128c79080457acd6031586"
+          }
+        },
+        {
+          "client_id": "1061377828671-r8asj5ukmc9o5gbrq3ld9pb60vsnioa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBGUEdgxNKKV5PwOjtL9r-O93eqEFQHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061377828671-r8asj5ukmc9o5gbrq3ld9pb60vsnioa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
